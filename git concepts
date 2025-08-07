@@ -1,0 +1,6 @@
+Distributed System: Everyone has the complete project history on their computer, so you can work offline and there's no single point of failure.
+Fast: Git handles large projects quickly and efficiently.
+Branching and Merging: You can create branches to work on new features and merge them easily, without affecting the main project.
+Collaboration: Git makes it easy for teams to work together, review each other's code, and manage projects.
+Change Tracking: Git keeps a record of all changes, so you can go back to previous versions if needed.
+Free and Open Source: Git is free to use and has a large community for support
